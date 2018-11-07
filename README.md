@@ -17,10 +17,10 @@ So I decided to covert some tea (yes, I love tea, not every programmer drinks co
 ### Config file (config.cfg)
 Structure
 
-` id : infrared_hex_value : key_code `__
-For example:__
-` 1:6D2A:{BACKSPACE} `__
-Max ID is: 9 (because of Express Settings, in future will be moar)__
+` id : infrared_hex_value : key_code `  
+For example:  
+` 1:6D2A:{BACKSPACE} `  
+Max ID is: 9 (because of Express Settings, in future will be moar)  
 
 ### List of Available keys
 
