@@ -87,4 +87,4 @@ So I decided to covert some tea (yes, I love tea, not every programmer drinks co
     {MULTIPLY}
     {DIVIDE}
 ## End
-If u like my work you can [buy me a tea](https://www.paypal.me/Aveneid/2.50 "Buy tea")
+If u like my work you can [buy me a tea](https://www.paypal.me/Aveneid/2.50 "Buy tea") ☕ 
