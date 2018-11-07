@@ -14,7 +14,13 @@ So I decided to covert some tea (yes, I love tea, not every programmer drinks co
 - Can be used as "virtual keyboard", you can lay in bed and change volume or others by any of your InfraRed remote (only if you configured app first)
 - ???
 - By changing a bit of code (pls dont steal my work :C) this app can run other apps/programs, can HACK someone or just draw smile in MS Paint.
+### Config file (config.cfg)
+Structure
 
+` id : infrared_hex_value : key_code `
+For example:
+` 1:6D2A:{BACKSPACE} `
+Max ID is: 9 (because of Express Settings, in future will be moar)
 
 ### List of Available keys
 
