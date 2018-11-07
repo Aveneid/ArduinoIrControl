@@ -1,0 +1,10 @@
+C:\Users\Bartek\Documents\Visual Studio 2012\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.exe
+C:\Users\Bartek\Documents\Visual Studio 2012\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+C:\Users\Bartek\Documents\Visual Studio 2012\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.xml
+C:\Users\Bartek\Documents\Visual Studio 2012\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Form1.resources
+C:\Users\Bartek\Documents\Visual Studio 2012\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Form2.resources
+C:\Users\Bartek\Documents\Visual Studio 2012\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\Bartek\Documents\Visual Studio 2012\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Bartek\Documents\Visual Studio 2012\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.exe
+C:\Users\Bartek\Documents\Visual Studio 2012\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.xml
+C:\Users\Bartek\Documents\Visual Studio 2012\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.pdb
