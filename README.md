@@ -1,7 +1,7 @@
 # ArduinoIrControl
 Infra-red Arduino based virtual keyboard with serial communication, logs and some magic
 
-# About
+### About
 
 I want to create something cool that I could use very often. 
 On English classes at Unversity I choosed "Microcontrollers" as topic for my presenation.
@@ -16,7 +16,7 @@ So I decided to covert some tea (yes, I love tea, not every programmer drinks co
 - By changing a bit of code (pls dont steal my work :C) this app can run other apps/programs, can HACK someone or just draw smile in MS Paint.
 
 
-###List of Available keys
+### List of Available keys
 
     " " (just space)
     {A}
@@ -86,5 +86,5 @@ So I decided to covert some tea (yes, I love tea, not every programmer drinks co
     {SUBTRACT}
     {MULTIPLY}
     {DIVIDE}
-#End
+## End
 If u like my work you can [buy me a tea](https://www.paypal.me/Aveneid/2.50 "Buy tea")
